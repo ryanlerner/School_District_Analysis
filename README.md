@@ -15,6 +15,8 @@ In general, this analysis was intended to demonstrate the differences in math & 
 - Thomas High School’s Relative Performance
   - As explained above, Thomas High School's overall passing percentage only decreased by about 0.3%. Using this metric, Thomas was the 2nd best performing school in their district prior to replacing the 9th grade math and reading scores with null values. Even after editing the data, this 0.3% change was not enough to move them out of the 2nd spot in the highest performing schools. 
 
+[Resources/top5schools.png]!("Resources/top5schools.png")
+
 How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
     - The math and reading scores by grade essentially remain unaffected when these scores by grade are sorted by their schools. Since the only data being replaced was for Thomas 9th graders, all other grade values for other schools remain the same while Thomas 9th grade scores were replaced with null values. 
